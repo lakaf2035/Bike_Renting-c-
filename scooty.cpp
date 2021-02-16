@@ -1,8 +1,8 @@
 /**********************************************************************
-Matr.-Nr:                     3099523
-Nachname/Surname:             KAFO TSAKOU
-Vorname/Given name:          GERMAN DELAURE
-Uni-Email:                    german.kafo-tsakou@stud.uni-due.de
+
+Nachname/Surname:             KAFO 
+Vorname/Given name:          GERMAN 
+Uni-Email:                    lakaf2035@gmail.com
 Studiengang/Course of studis: Computer Engineering software
 **********************************************************************/
 #include<iostream>
